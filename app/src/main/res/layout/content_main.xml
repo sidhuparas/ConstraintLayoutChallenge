@@ -33,7 +33,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="12dp"
             android:fontFamily="@font/proximanovaregular"
-            tools:text="The Louvre"
+            android:text="@string/heading"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
