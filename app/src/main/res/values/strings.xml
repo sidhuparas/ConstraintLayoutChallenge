@@ -4,4 +4,5 @@
     <string name="place_image">Place Image</string>
     <string name="title">Tour De France</string>
     <string name="heading">The Louvre</string>
+    <string name="location">Paris, France</string>
 </resources>
